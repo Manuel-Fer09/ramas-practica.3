@@ -1,1 +1,1 @@
- Hola, este archivo fue editado en rama A.
+ Hola, este archivo fue editado en rama B.
